@@ -1,0 +1,159 @@
+﻿body{
+	margin:0;
+}
+header{
+	position:absolute;
+	width:100%;
+	height:145px;
+	background-image:url(../IMG/titulo.jpg);
+	background-size:100% 160px;
+	color:black;
+}
+nav{
+	position:absolute; 
+	width:100%;
+	height:40px;
+	background-color:rgb(63,63,63);
+	margin-top:148px;
+	box-shadow:10px 2px 15px #4d54cf;
+	text-align:center;
+}
+nav a{
+	font-size:30px;
+	color:#ffffff;
+	padding-left:65px;
+	text-shadow: 0px 2px 3px #888888;
+	text-decoration:none;
+}
+nav a:hover{
+	color:#6447cf;
+	text-shadow: 0px 2px 3px #000000;
+	transition:0.3s ease-out;
+}
+#esq{
+	position:absolute;
+	width:10%;
+	height:1200px;
+	background-color:#12172b;
+	margin-top:190px;
+	border-radius:0px;
+}
+IMG{
+	margin-top:20px;
+	width:90%;
+}
+#b{
+	font-size:50px;
+	text-align:center;
+	color:#ffffff
+}
+article{
+	position:absolute;
+	width:90%;
+	height:1200px;
+	background-color:black;
+	margin-top:190px;
+	margin-left:10%;
+	background-image:url(../IMG/fundo2.jpg);
+	background-size:100% 720px;
+}	
+#h{
+	width:100%;
+	height:1200px;
+	border:none;
+	background-color:rgba(18,23,43,0.6);
+}
+h1{
+	font-size:70px;
+	text-align:center;
+	color:#ffffff;
+}
+h2{
+	font-size:50px;
+	text-align:justify;
+	color:#c08730;
+	margin-left:20px;
+	margin-right:20px;
+	text-indent:50px;
+}
+h3{
+	font-size:70px;
+	text-align:center;
+	color:#c08730;
+}
+p{
+	font-size:20px;
+	color:#ffffff;
+	text-align:justify; 
+	margin-left:20px;
+	margin-right:20px;
+	text-indent:50px;
+}
+#tm{
+	width:50%;
+	margin-left:27%;
+}
+	
+#lk{
+	width:50%;
+	margin-left:27%;	
+}
+#am{
+	width:25%;
+	margin-left:37%;
+}
+#en{
+	float:left;
+	width:5%;
+	 margin:0px 10px 50px 10px;
+}
+#ps{
+	float:right;
+	width:10%;
+	margin:0px 10px 50px 10px;
+}
+#hp{
+	float:right;
+	width:5%;
+	margin:0px 10px 50px 10px;
+
+}
+h4{
+	font-size:70px;
+	text-align:center;
+	color:#861930;
+}
+h5{
+	font-size:50px;
+	text-align:justify;
+	color:#861930;
+	margin-left:20px;
+	margin-right:20px;
+	text-indent:50px;
+}
+h6{
+	font-size:70px;
+	text-align:center;
+	color:#955aa8;
+}
+h7{
+	font-size:50px;
+	text-align:justify;
+	color:#955aa8;
+	margin-left:20px;
+	margin-right:20px;
+	text-indent:50px;
+}
+h8{
+	font-size:50px;
+	text-align:center;
+	color:#6fc0fa;
+}
+h9{
+	font-size:48px;
+	text-align:justify;
+	color:#6fc0fa;
+	margin-left:20px;
+	margin-right:20px;
+	text-indent:50px;
+}
